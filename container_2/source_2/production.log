@@ -1,0 +1,108 @@
+{"level":"info","message":"Parameters 10 and 12123 received for subtraction","service":"user-service","timestamp":"2023-03-27T10:30:53.972Z"}
+{"level":"info","message":"Parameters 10 and 12123 received for subtraction","service":"user-service","timestamp":"2023-03-27T10:30:54.109Z"}
+{"level":"info","message":"Parameters 10 and 12123 received for addition","service":"user-service","timestamp":"2023-03-27T10:31:00.411Z"}
+{"level":"info","message":"Parameters 10 and 12123 received for addition","service":"user-service","timestamp":"2023-03-27T10:31:00.488Z"}
+{"level":"info","message":"Parameters 10 and 12123 received for average function","service":"user-service","timestamp":"2023-03-27T10:31:37.252Z"}
+{"level":"info","message":"Parameters 10 and 12123 received for average function","service":"user-service","timestamp":"2023-03-27T10:31:37.336Z"}
+{"level":"info","message":"Parameters 10 and 12123 received for division","service":"user-service","timestamp":"2023-03-27T10:32:36.428Z"}
+{"level":"info","message":"Parameters 10 and 12123 received for division","service":"user-service","timestamp":"2023-03-27T10:32:36.517Z"}
+{"level":"info","message":"Parameters 11120 and 12123 received for division","service":"user-service","timestamp":"2023-03-27T10:32:56.543Z"}
+{"level":"info","message":"Parameters 11120 and 12123 received for division","service":"user-service","timestamp":"2023-03-27T10:32:56.616Z"}
+{"level":"error","message":"n2 is incorrectly defined","service":"user-service","timestamp":"2023-03-27T10:33:24.280Z"}
+{"level":"error","message":"n2 is incorrectly defined","service":"user-service","timestamp":"2023-03-27T10:33:24.380Z"}
+{"level":"info","message":"Parameters 45454 and 45 received for subtraction","service":"user-service","timestamp":"2023-03-27T10:45:48.774Z"}
+{"level":"info","message":"Parameters 45454 and 45 received for subtraction","service":"user-service","timestamp":"2023-03-27T10:45:48.866Z"}
+{"level":"info","message":"Parameters 45454 and 45 received for multiply","service":"user-service","timestamp":"2023-03-27T11:55:45.840Z"}
+{"level":"info","message":"Parameters 45454 and 45 received for multiply","service":"user-service","timestamp":"2023-03-27T11:55:46.013Z"}
+{"level":"info","message":"Parameters 45454 and 45 received for addition","service":"user-service","timestamp":"2023-03-27T11:55:52.709Z"}
+{"level":"info","message":"Parameters 45454 and 45 received for addition","service":"user-service","timestamp":"2023-03-27T11:55:52.785Z"}
+{"level":"info","message":"Parameters 45454 and 7866 received for addition","service":"user-service","timestamp":"2023-03-27T11:55:59.747Z"}
+{"level":"info","message":"Parameters 45454 and 7866 received for addition","service":"user-service","timestamp":"2023-03-27T11:55:59.827Z"}
+{"level":"info","message":"Parameters 4 and 7 received for addition","service":"user-service","timestamp":"2023-03-27T11:58:39.120Z"}
+{"level":"info","message":"Parameters 4 and 7 received for addition","service":"user-service","timestamp":"2023-03-27T11:58:39.205Z"}
+{"level":"info","message":"Parameters 4 and 7 received for addition","service":"user-service","timestamp":"2023-03-27T11:59:35.780Z"}
+{"level":"info","message":"Parameters 4 and 7 received for addition","service":"user-service","timestamp":"2023-03-27T11:59:35.873Z"}
+{"level":"info","message":"Parameters 4 and 77 received for addition","service":"user-service","timestamp":"2023-03-27T12:08:31.565Z"}
+{"level":"info","message":"4 + 77","service":"user-service","timestamp":"2023-03-27T12:08:31.570Z"}
+{"level":"info","message":"Parameters 4 and 77 received for addition","service":"user-service","timestamp":"2023-03-27T12:08:31.660Z"}
+{"level":"info","message":"4 + 77","service":"user-service","timestamp":"2023-03-27T12:08:31.661Z"}
+{"level":"info","message":"Parameters 4 and 88 received for addition","service":"user-service","timestamp":"2023-03-27T12:10:08.690Z"}
+{"level":"info","message":"4 + 88","service":"user-service","timestamp":"2023-03-27T12:10:08.692Z"}
+{"level":"info","message":"Parameters 4 and 88 received for addition","service":"user-service","timestamp":"2023-03-27T12:10:08.775Z"}
+{"level":"info","message":"4 + 88","service":"user-service","timestamp":"2023-03-27T12:10:08.775Z"}
+{"level":"error","message":"n2 is incorrectly defined","service":"user-service","timestamp":"2023-03-27T12:11:17.571Z"}
+{"level":"error","message":"n2 is incorrectly defined","service":"user-service","timestamp":"2023-03-27T12:11:17.703Z"}
+{"level":"error","message":"n1 is incorrectly defined","service":"user-service","timestamp":"2023-03-27T12:12:07.057Z"}
+{"level":"error","message":"n1 is incorrectly defined","service":"user-service","timestamp":"2023-03-27T12:12:07.174Z"}
+{"level":"error","message":"n1 is incorrectly defined","service":"user-service","timestamp":"2023-03-27T12:16:11.504Z"}
+{"level":"error","message":"n1 is incorrectly defined","service":"user-service","timestamp":"2023-03-27T12:16:11.601Z"}
+{"level":"error","message":"n1 is incorrectly defined","service":"user-service","timestamp":"2023-03-27T12:16:18.965Z"}
+{"level":"error","message":"n1 is incorrectly defined","service":"user-service","timestamp":"2023-03-27T12:16:19.071Z"}
+{"level":"error","message":"n1 is incorrectly defined","service":"user-service","timestamp":"2023-03-27T12:17:11.103Z"}
+{"level":"error","message":"n1 is incorrectly defined","service":"user-service","timestamp":"2023-03-27T12:17:11.220Z"}
+{"level":"error","message":"n1 is incorrectly defined","service":"user-service","timestamp":"2023-03-27T12:17:27.248Z"}
+{"level":"error","message":"n1 is incorrectly defined","service":"user-service","timestamp":"2023-03-27T12:17:27.342Z"}
+{"level":"info","message":"Parameters 12 and 45 received for addition","service":"user-service","timestamp":"2023-03-27T12:18:24.838Z"}
+{"level":"info","message":"12 + 45","service":"user-service","timestamp":"2023-03-27T12:18:24.838Z"}
+{"level":"info","message":"Parameters 12 and 45 received for addition","service":"user-service","timestamp":"2023-03-27T12:18:24.922Z"}
+{"level":"info","message":"12 + 45","service":"user-service","timestamp":"2023-03-27T12:18:24.923Z"}
+{"level":"error","message":"n2 is incorrectly defined","service":"user-service","timestamp":"2023-03-27T12:24:29.275Z"}
+{"level":"error","message":"n2 is incorrectly defined","service":"user-service","timestamp":"2023-03-27T12:24:29.402Z"}
+{"level":"error","message":"n2 is incorrectly defined","service":"user-service","timestamp":"2023-03-27T12:25:02.743Z"}
+{"level":"error","message":"n2 is incorrectly defined","service":"user-service","timestamp":"2023-03-27T12:25:02.853Z"}
+{"level":"info","message":"Parameters 4 and 5 received for multiply","service":"user-service","timestamp":"2023-03-27T12:25:10.874Z"}
+{"level":"info","message":"Parameters 4 and 5 received for multiply","service":"user-service","timestamp":"2023-03-27T12:25:10.960Z"}
+{"level":"error","message":"n1 is incorrectly defined","service":"user-service","timestamp":"2023-03-27T12:25:18.564Z"}
+{"level":"error","message":"n1 is incorrectly defined","service":"user-service","timestamp":"2023-03-27T12:25:18.685Z"}
+{"level":"error","message":"n1 is incorrectly defined","service":"user-service","timestamp":"2023-03-27T12:34:46.848Z"}
+{"level":"error","message":"n1 is incorrectly defined","service":"user-service","timestamp":"2023-03-27T12:34:47.029Z"}
+{"level":"info","message":"Parameters 24 and 22 received for multiply","service":"user-service","timestamp":"2023-03-27T12:34:53.424Z"}
+{"level":"info","message":"Parameters 24 and 22 received for multiply","service":"user-service","timestamp":"2023-03-27T12:34:53.510Z"}
+{"level":"info","message":"Parameters 24 and 22 received for multiply","service":"user-service","timestamp":"2023-03-27T14:44:51.202Z"}
+{"level":"info","message":"Parameters 24 and 22 received for division","service":"user-service","timestamp":"2023-03-27T14:59:05.574Z"}
+{"level":"info","message":"Parameters 24 and 22 received for division","service":"user-service","timestamp":"2023-03-27T14:59:05.714Z"}
+{"level":"info","message":"Parameters 24 and 2232 received for subtraction","service":"user-service","timestamp":"2023-03-27T15:02:18.956Z"}
+{"level":"info","message":"Parameters 24 and 2232 received for subtraction","service":"user-service","timestamp":"2023-03-27T15:02:19.138Z"}
+{"level":"info","message":"Parameters 24 and 2232 received for subtraction","service":"user-service","timestamp":"2023-03-27T17:40:09.547Z"}
+{"level":"info","message":"Parameters 24 and 2232 received for subtraction","service":"user-service","timestamp":"2023-03-28T02:16:30.799Z"}
+{"level":"info","message":"Parameters 24 and 2232 received for subtraction","service":"user-service","timestamp":"2023-03-28T04:34:50.892Z"}
+{"level":"info","message":"Parameters 15 and 23 received for subtraction","service":"user-service","timestamp":"2023-03-30T16:46:57.326Z"}
+{"level":"info","message":"Parameters 15 and 23 received for subtraction","service":"user-service","timestamp":"2023-03-30T16:46:57.424Z"}
+{"level":"info","message":"Parameters 15 and 23 received for addition","service":"user-service","timestamp":"2023-03-30T16:47:06.534Z"}
+{"level":"info","message":"Parameters 15 and 23 received for addition","service":"user-service","timestamp":"2023-03-30T16:47:06.599Z"}
+{"level":"info","message":"Parameters 15 and 25 received for addition","service":"user-service","timestamp":"2023-03-30T16:47:12.155Z"}
+{"level":"info","message":"Parameters 15 and 25 received for addition","service":"user-service","timestamp":"2023-03-30T16:47:12.220Z"}
+{"level":"info","message":"Parameters 15 and 25 received for division","service":"user-service","timestamp":"2023-03-30T16:47:23.919Z"}
+{"level":"info","message":"Parameters 15 and 25 received for division","service":"user-service","timestamp":"2023-03-30T16:47:23.989Z"}
+{"level":"info","message":"Parameters 15 and 25 received for average function","service":"user-service","timestamp":"2023-03-30T16:48:13.207Z"}
+{"level":"info","message":"Parameters 15 and 25 received for average function","service":"user-service","timestamp":"2023-03-30T16:48:13.277Z"}
+{"level":"error","message":"n2 is ill defined!","service":"user-service","timestamp":"2023-03-30T16:48:23.371Z"}
+{"level":"error","message":"n2 is ill defined!","service":"user-service","timestamp":"2023-03-30T16:48:23.445Z"}
+{"level":"error","message":"n2 is incorrectly defined","service":"user-service","timestamp":"2023-03-30T16:57:42.476Z"}
+{"level":"error","message":"n2 is incorrectly defined","service":"user-service","timestamp":"2023-03-30T16:57:42.844Z"}
+{"level":"info","message":"Parameters 15 and 22 received for addition","service":"user-service","timestamp":"2023-03-30T16:57:48.689Z"}
+{"level":"info","message":"Parameters 15 and 22 received for addition","service":"user-service","timestamp":"2023-03-30T16:57:48.802Z"}
+{"level":"info","message":"Parameters 15 and 22 received for subtraction","service":"user-service","timestamp":"2023-03-30T17:14:07.319Z"}
+{"level":"info","message":"Parameters 15 and 22 received for subtraction","service":"user-service","timestamp":"2023-03-30T17:14:07.617Z"}
+{"level":"info","message":"Parameters 15 and 22 received for addition","service":"user-service","timestamp":"2023-03-30T17:19:04.243Z"}
+{"level":"info","message":"Parameters 15 and 22 received for addition","service":"user-service","timestamp":"2023-03-30T17:19:04.401Z"}
+{"level":"info","message":"Parameters 15 and 22 received for addition","service":"user-service","timestamp":"2023-03-30T17:20:03.526Z"}
+{"filename":"operations.log","level":"info","message":"15+22","service":"user-service","timestamp":"2023-03-30T17:20:03.530Z"}
+{"level":"info","message":"Parameters 15 and 22 received for addition","service":"user-service","timestamp":"2023-03-30T17:20:03.711Z"}
+{"filename":"operations.log","level":"info","message":"15+22","service":"user-service","timestamp":"2023-03-30T17:20:03.712Z"}
+{"level":"info","message":"Parameters 15 and 3333 received for addition","service":"user-service","timestamp":"2023-03-30T17:20:08.639Z"}
+{"filename":"operations.log","level":"info","message":"15+3333","service":"user-service","timestamp":"2023-03-30T17:20:08.639Z"}
+{"level":"info","message":"Parameters 15 and 3333 received for addition","service":"user-service","timestamp":"2023-03-30T17:20:08.763Z"}
+{"filename":"operations.log","level":"info","message":"15+3333","service":"user-service","timestamp":"2023-03-30T17:20:08.763Z"}
+{"level":"info","message":"Parameters 15 and 3333 received for addition","service":"user-service","timestamp":"2023-03-30T17:23:33.055Z"}
+{"level":"info","message":"Parameters 15 and 3333 received for addition","service":"user-service","timestamp":"2023-03-30T17:23:33.253Z"}
+{"level":"info","message":"Parameters 15 and 3333 received for average function","service":"user-service","timestamp":"2023-03-30T17:30:16.812Z"}
+{"level":"info","message":"Parameters 15 and 3333 received for average function","service":"user-service","timestamp":"2023-03-30T17:30:16.977Z"}
+{"level":"info","message":"Parameters 15 and 23 received for addition","service":"user-service","timestamp":"2023-04-08T10:25:28.154Z"}
+{"level":"info","message":"Parameters 15 and 23 received for addition","service":"user-service","timestamp":"2023-04-08T10:25:28.688Z"}
+{"level":"info","message":"Parameters 15 and 54 received for addition","service":"user-service","timestamp":"2023-04-08T10:25:35.492Z"}
+{"level":"info","message":"Parameters 15 and 54 received for addition","service":"user-service","timestamp":"2023-04-08T10:25:35.641Z"}
+{"level":"info","message":"Parameters 15 and 54 received for subtraction","service":"user-service","timestamp":"2023-04-08T10:25:43.798Z"}
+{"level":"info","message":"Parameters 15 and 54 received for subtraction","service":"user-service","timestamp":"2023-04-08T10:25:43.934Z"}
+{"level":"info","message":"Parameters 15 and 54 received for average function","service":"user-service","timestamp":"2023-04-08T10:25:53.332Z"}
+{"level":"info","message":"Parameters 15 and 54 received for average function","service":"user-service","timestamp":"2023-04-08T10:25:53.478Z"}
